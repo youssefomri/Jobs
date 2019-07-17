@@ -4,7 +4,7 @@
 #+SETUPFILE: ~/org/org_html_themes/setup/theme-readtheorg.setup
 
 
-* 考えるべき項目 4 HIROTO  <2019-07-18 Thu 00:45>
+* 考えるべき項目 <2019-07-18 Thu 00:45>
 ** 自己紹介
    - 名前
    - 大学
